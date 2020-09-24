@@ -26,3 +26,11 @@ if __name__ == '__main__':
 ```shell
 $ pip3 install pyqt5
 ```
+
+---
+
+## FAQ
+
+- **How do I do *specifically* so and so?**
+    - No problem! Just do this.
+
